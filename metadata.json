@@ -1,0 +1,6 @@
+{
+  "name": "შოთა რუსთაველი — ვეფხისტყაოსანი",
+  "description": "საგანმანათლებლო და კულტურული პორტალი შოთა რუსთაველის, ქართული ოქროს ხანისა და უკვდავი პოემის „ვეფხისტყაოსნის“ შესახებ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
